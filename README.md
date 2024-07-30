@@ -9,6 +9,11 @@ I'm a B.E(Information Technology ) graduate  with a passion for Software Develop
 - Tools: Git,etc.
 
 ## 🚀 Projects
-- [Project 1](link-to-project): Description of Project 1
-- [Project 2](link-to-project): Description of Project 2
-- [Project 3](link-to-project): Description of Project 3
+- **[Text Editor Using java swing]**(https://github.com/005arunk/Text-editor-using-java-swing-):
+- A simple text editor built using Java Swing. This text editor provides basic functionalities such as creating new files, opening existing files, saving files, and basic text manipulation. The project aims to demonstrate proficiency in Java GUI development, file I/O, and event handling.
+- 
+- **[Library management system]** (https://github.com/005arunk/library-management-system-):
+- Streamlined library managemnet system crafted with java and MySQL,
+ensuring efficient cataloging and retrieval
+
+
