@@ -6,7 +6,7 @@ I'm a B.E(Information Technology ) graduate  with a passion for Software Develop
 ## 🔧 Technologies & Tools
 - Programming Languages: Java, C++ etc.
 - Frameworks: Angular, Spring Boot, etc.
-- Tools: Git,etc.
+- Tools: Git.
 
 ## 🚀 Projects
 - **Text Editor Using java swing**(https://github.com/005arunk/Text-editor-using-java-swing-):
